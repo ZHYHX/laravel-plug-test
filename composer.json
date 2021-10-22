@@ -1,0 +1,16 @@
+{
+    "name": "yhen/testplug",
+    "description": "md5@@@@",
+    "autoload": {
+        "psr-4": {
+            "Yhen\\Testplug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yhen",
+            "email": "1753210577@qq.com"
+        }
+    ],
+    "require": {}
+}
